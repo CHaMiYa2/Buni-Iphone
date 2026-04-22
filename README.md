@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Buni Iphone - Premium iPhone E-Commerce
 
 Buni Iphone is a complete, production-ready e-commerce platform for selling new, refurbished, and pre-owned iPhones in Sri Lanka. It features a premium dark aesthetic, seamless checkout, trade-in calculator, and repair booking system.
@@ -73,3 +74,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to view yo
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new).
 
 When deploying, make sure to add all the environment variables from your `.env.local` file into the Vercel project settings, and update your `NEXT_PUBLIC_URL` to your production domain name (e.g., `https://buniiphone.lk`). You will also need to update your Stripe Webhook endpoint URL to match the production domain.
+=======
+# Buni-Iphone
+>>>>>>> d2108f3010cb184b6a1b1e24e28a3773b3dfb318
